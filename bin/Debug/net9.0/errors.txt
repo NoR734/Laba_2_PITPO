@@ -1,0 +1,8 @@
+[09.05.2025 22:48:06] Ошибки при создании Teacher:
+Введённые данные: email='ivano.юортv@mail.ru', name='Иван Иванов', age=35
+ - Неверный email: ivano.юортv@mail.ru
+
+[09.05.2025 22:54:15] Ошибки при создании Teacher:
+Введённые данные: email='ivano.юортv@mail.ru', name='Иван Иванов', age=35
+ - Неверный email: ivano.юортv@mail.ru
+
